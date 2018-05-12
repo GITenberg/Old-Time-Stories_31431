@@ -1,0 +1,48 @@
+_repo: Old-Time-Stories_31431
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Robinson, W. Heath (William Heath)
+    alias: Robinson, William Heath
+    birthdate: 1872
+    deathdate: 1944
+    gutenberg_agent_id: '34723'
+    url: http://www.gutenberg.org/2009/agents/34723
+  translator:
+    agent_name: Johnson, A. E. (Alfred Edwin)
+    alias: Johnson, Alfred Edwin
+    birthdate: 1879
+    gutenberg_agent_id: '5425'
+    url: http://www.gutenberg.org/2009/agents/5425
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Perrault, Charles
+    birthdate: 1628
+    deathdate: 1703
+    gutenberg_agent_id: '7137'
+    url: http://www.gutenberg.org/2009/agents/7137
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Charles_Perrault
+    - http://fr.wikipedia.org/wiki/Charles_Perrault
+description: ''
+gutenberg_issued: '2010-02-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31431'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fairy tales -- France'
+- !lcsh 'Children''s stories, French -- Translations into English'
+- !lcsh 'Fairy tales'
+- !lcc 'PZ'
+tableOfContents: The sleeping beauty in the wood -- Puss in boots -- Little Tom Thumb
+  -- The fairies -- Ricky of the tuft -- Cinderella -- Little Red Riding Hood -- Blue
+  Beard -- Beauty and the beast -- The friendly frog -- Princess Rosette.
+title: Old-Time Stories
+url: http://www.gutenberg.org/ebooks/31431
